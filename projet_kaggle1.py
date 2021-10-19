@@ -57,3 +57,5 @@ print("%7.4f %s" % (tdrop[0, 0, iy_min, ix_min], tdrop.units))
 
 # Attention !
 # exemple où chaque latitude, longitude a un x et y, hors nous avons directement une colonne latidude et une colonne longitude dans nos fichiers
+
+# si je rajoute quelque chose
